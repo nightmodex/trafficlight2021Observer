@@ -1,6 +1,6 @@
 package trafficlight.states;
 
-//TODO implement a part of the pattern here
+//DONE
 
 import trafficlight.Subject;
 
